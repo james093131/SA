@@ -1,4 +1,7 @@
-cmd執行方式 ./SA 100(bit數)  1000(iteration) 30(run) 
+編譯方式
+g++ -o SA SA.cpp
+cmd執行方式
+ ./SA 100(bit數)  1000(iteration) 30(run) 
 此次輸出三種不同結果，主要討論alpha和r的最小值導致的差異性
 
 result1的設定如下
